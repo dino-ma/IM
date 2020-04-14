@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Hedeqiang\TenIM\Exceptions;
+namespace DinoMa\TenIM\Exceptions;
 
 class HttpException extends Exception
 {

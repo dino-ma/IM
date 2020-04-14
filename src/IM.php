@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Hedeqiang\TenIM;
+namespace DinoMa\TenIM;
 
-use Hedeqiang\TenIM\Exceptions\Exception;
-use Hedeqiang\TenIM\Exceptions\HttpException;
-use Hedeqiang\TenIM\Traits\HasHttpRequest;
+use DinoMa\TenIM\Exceptions\Exception;
+use DinoMa\TenIM\Exceptions\HttpException;
+use DinoMa\TenIM\Traits\HasHttpRequest;
 use Tencent\TLSSigAPIv2;
 
 class IM

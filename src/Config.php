@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Hedeqiang\TenIM;
+namespace DinoMa\TenIM;
 
 use ArrayAccess;
 use InvalidArgumentException;

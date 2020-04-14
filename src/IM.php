@@ -51,7 +51,7 @@ class IM
             throw new HttpException($e->getMessage(), $e->getCode(), $e);
         }
 
-        if (0 === $result['ErrorCode'] && 'OK' === $result['ActionStatus']) {
+        if (0 === $result['ErrorCode']) {
             return $result;
         }
 
